@@ -1,6 +1,6 @@
 # The Cloud Ready Post-It Application
 This is a sample application for the book, Getting Started with OpenShift.
-
+h
 It's a web app that allows users to `list, add, and delete` posts with content.
 
 The Post-It Application that is composed of:
